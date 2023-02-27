@@ -1,8 +1,26 @@
-- 🔭 I’m currently working on development of CMS system based on microservice and domain-driven design in Japan
-- 🌱 I’m currently learning more about springboot and vue.
-- 👯 I’m looking to collaborate on springboot full stack project.
-- 💬 Ask me about Chinese culture, Learning Chinese, Cantonese
-- 📫 How to reach me: lhjjjk4@gmail.com
+LI HONGJI, Keith
+
+# About Me
+I am a software engineer with experience in product development, system design, and agile development methodologies. I have worked on various projects using technologies such as Java, SpringBoot, Vue, AngularJS, JavaScript, jQuery, Git, GitLab, Docker, PostgreSQL, MariaDB, Google Cloud, and Ubuntu.
+
+# Skills
+- Java
+- SpringBoot
+- Vue
+- React
+- JavaScript
+- Git
+- GitLab
+- Docker
+- PostgreSQL
+- MariaDB
+- Google Cloud
+- AWS
+- Ubuntu
+
+# Contact Me
+- Email: lhjjjk4@gmail.com
+- LinkedIn: www.linkedin.com/in/hongji-li
 
 <!---
 KeithHello/KeithHello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
