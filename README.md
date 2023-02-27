@@ -10,6 +10,7 @@ I am a software engineer with experience in product development, system design, 
 - Git
 - GitLab
 - Docker
+- MySQL
 - PostgreSQL
 - MariaDB
 - Google Cloud
