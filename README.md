@@ -1,5 +1,3 @@
-LI HONGJI, Keith
-
 # About Me
 I am a software engineer with experience in product development, system design, and agile development methodologies. I have worked on various projects using technologies such as Java, SpringBoot, Vue, AngularJS, JavaScript, jQuery, Git, GitLab, Docker, PostgreSQL, MariaDB, Google Cloud, and Ubuntu.
 
