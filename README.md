@@ -9,7 +9,8 @@ If you are looking for a dedicated and passionate team player with a deep unders
 
 # Contact Me
 - Email: lhjjjk4@gmail.com
-- LinkedIn: www.linkedin.com/in/hongji-li
+- LinkedIn: https://www.linkedin.com/in/hongji-li
+- Medium: https://medium.com/@lhjjjk4
 
 <!---
 KeithHello/KeithHello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
