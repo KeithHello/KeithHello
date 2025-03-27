@@ -20,11 +20,7 @@ My approach combines technical expertise with creative problem-solving. I excel 
 
 ![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=KeithHello&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeithHello&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=KeithHello&theme=dark)
-
-![GitHub 语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=KeithHello&layout=compact&theme=radical)
+![GitHub Language](https://github-readme-stats.vercel.app/api/top-langs/?username=KeithHello&layout=compact&theme=radical)
 
 ## Contact Me
 
